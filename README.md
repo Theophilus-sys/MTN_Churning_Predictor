@@ -1,6 +1,6 @@
 # MTN Churn Intelligence System
 *Predictive Retention & Customer Insight for Telecom  Growth*
-<img src="mtn_icon.png" align="center">
+![MTN Logo](https://images.seeklogo.com/logo-png/9/1/mtn-logo-png_seeklogo-95716.png)
 
 ## Project Overview 
 This project addresses a critical business challenge for **MTN Nigeria** as an increasing churning rate poses as an obstacle to business sustenance. This end-to-end system moves beyond static analysis to providing real-time prediction tool for identifying at-risk customers while focusing on the roll-out of 5G services and regional market pressures. 
