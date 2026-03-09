@@ -54,6 +54,7 @@ The choice model for this project covers three main philosophies of classificati
 * Random Forest: For tackling overfitting and handling the mix of categorical and numerical data, as they create many decision trees and average them
 * XGBoost: It is the state of the art model for tabular churn data as it creates decision trees squentially and with each new tree correcting the errors of the previous one
 
+<img width="898" height="627" alt="image" src="https://github.com/user-attachments/assets/75082cb0-5b56-4d30-83ad-ef298b631cf9" />
 
 ## Task Nine: Business Intelligence Recommendation
 The XGBoost modeling and SHAP result is telling us that:
